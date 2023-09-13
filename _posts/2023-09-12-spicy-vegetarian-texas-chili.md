@@ -1,7 +1,7 @@
 ---
+title: Spicy Vegetarian Texas Chile
+date: 2023-09-12 00:39:28 Z
 layout: default
-title:  "Simple Pasta Sauce"
-date:   2023-09-09 20:39:28 -0400
 ---
 
 This Chana Masala recipe is a hearty delicious meal but easy enough to throw together on a weekday night.
