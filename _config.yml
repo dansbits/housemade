@@ -5,6 +5,9 @@ collections:
   posts:
     title: Posts
     output: true
+  recipes:
+    title: Recipes
+    output: true
   uploads:
     title: Uploads
     output: true
